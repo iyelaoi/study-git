@@ -4,3 +4,4 @@ web add a line。
 client new line.
 new kine.
 hello
+client add hello
